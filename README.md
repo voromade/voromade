@@ -25,7 +25,7 @@
 
 ## 👋 About Me
 
-Hey there! I'm [Voro](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 7 years in the game, my journey into the world of software engineering kicked off with two distinct goals:
+Hey there! I'm [Voro](https://devante.dev), a seasoned Fullstack Software Engineer from Connecticut, USA. With over 8 years experience, my journey into the world of software engineering kicked off with two distinct goals:
 
 **Gaming Edge**: Crafting Call of Duty Mod Menus for my JTAG from 2014 to 2018.
 
